@@ -26,8 +26,4 @@ ${req.body.message}
   res.redirect('back')
 })
 
-router.get('/telegram', (req, res) => {
-  res.send('telegram')
-})
-
 module.exports = router;
