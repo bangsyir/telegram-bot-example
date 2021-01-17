@@ -33,11 +33,17 @@ then
 ```sh
 $ npm start
 ```
-Feel free clone/download and share it.
+And enjoy it!!! Happy coding. 😎
+Feel free to clone or download, and don't forget to share this code.
+
 #### Follow me on 😆:
 Instagram : [bangsyir](https://instagram.com/bangsyirr "bangsyir")
+
+Instagram : [teahaliasuam](https://instagram.com/teahaliasuam "teahaliasuam")
+
 Twitter : [bangsyirr](https://twitter/bangsyirr "bangsyirr")
-Instagram : [bangsyir](https://instagram.com/teahaliasuam "bangsyir")
+
 Facebook : [Click this link](https://www.facebook.com/abcdefghijklmnopkrstuvwxyz1234567890 "Click this link")
+
 Channel Telegram : [Click this link](https://t.me/cbangsyir "Click this link")
 
