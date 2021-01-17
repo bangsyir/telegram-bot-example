@@ -36,12 +36,8 @@ $ npm start
 Feel free clone/download and share it.
 #### Follow me on 😆:
 Instagram : [bangsyir](https://instagram.com/bangsyirr "bangsyir")
-
 Twitter : [bangsyirr](https://twitter/bangsyirr "bangsyirr")
-
 Instagram : [bangsyir](https://instagram.com/teahaliasuam "bangsyir")
-
 Facebook : [Click this link](https://www.facebook.com/abcdefghijklmnopkrstuvwxyz1234567890 "Click this link")
-
 Channel Telegram : [Click this link](https://t.me/cbangsyir "Click this link")
 
