@@ -1,6 +1,11 @@
-# Example Telegram Bot Api
+# Example Telegram Bot Api Using Express NodeJs
 
-I made an example telegram bot api, feel free to download it. 
+I made an example telegram bot api, so many app you can build with this bot. Example: If you are have a e-commerce website you can make notification for orders system from your web app.
+
+### Required
+
+**node** version  v12.+.+ **or** above.
+
 
 ### How Run:
 
