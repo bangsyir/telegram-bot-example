@@ -11,7 +11,7 @@ router.post('/send-notification', (req, res) => {
   request.post({
     url: `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendMessage`, 
     form: {
-      chat_id: '@belihubdotcom',
+      chat_id: process.env.TELEGRAM_GROUP_ID,
       parse_mode: 'HTML',
       text: `
 <b>From:</b> ${req.body.fullname}
